@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @Its-me-darsanms
 - 👀 I’m interested in Learning new things and programming.
 - 🌱 I’m currently learning B.Tech IT .
-- 💞️ I’m looking to - 
 - 📫 How to reach me ammahesh620@gmail.com
-- 😄 Pronouns: 
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: 'Active soul!'
 
 <!---
